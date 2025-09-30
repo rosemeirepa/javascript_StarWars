@@ -21,6 +21,8 @@ Aplicação de página web simples, desenvolvida para fins didáticos.
 - Fontes
     - https://fonts.google.com/icons
 
+## Chamando a aplicação no navegador:
+file:///C:/Desenvolvimento/javascript_StarWars/index.html
 
 ## Autora:
 Rosemeire P. Assis
